@@ -1,1 +1,1 @@
-![Shield](https://shieldtest.vercel.app/api/shield?label=c&message=c&labelColor=000000&messageColor=000000)
+ ![Shield](https://shieldtest.vercel.app/api/shield?text=this%20is%20my%20project!)
