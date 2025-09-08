@@ -1,1 +1,1 @@
-![status](http://localhost:3000/badge/status-online-blue)
+![badge](https://mark-badge.onrender.com/badge/custom?segments=%5B%7B%22text%22%3A%22build%22%2C%22color%22%3A%22green%22%2C%22anim%22%3A%22zoom%22%7D%2C%7B%22text%22%3A%22ff%22%2C%22color%22%3A%22yellow%22%2C%22anim%22%3A%22rainbow%22%7D%5D)
