@@ -5,3 +5,4 @@
 - ![badge](https://mark-badge.onrender.com/badge/custom?segments=%5B%7B%22text%22%3A%22website%22%2C%22color%22%3A%22red%22%2C%22anim%22%3A%22zoom%22%7D%2C%7B%22text%22%3A%22mark-badge.onrender.com%22%2C%22color%22%3A%22grey%22%2C%22anim%22%3A%22glitch%22%7D%2C%7B%22text%22%3A%22check%20out%20now!%22%2C%22color%22%3A%22purple%22%2C%22anim%22%3A%22wave%22%7D%5D)
 
 - ![badge](https://mark-badge.onrender.com/badge/custom?segments=%5B%7B%22text%22%3A%22crazy%22%2C%22color%22%3A%22red%22%2C%22anim%22%3A%22neon%22%7D%2C%7B%22text%22%3A%229999%20per%20cent%22%2C%22color%22%3A%22grey%22%2C%22anim%22%3A%22glitch%22%7D%2C%7B%22text%22%3A%22ON%20GITHUB%22%2C%22color%22%3A%22blue%22%2C%22anim%22%3A%22spin%22%7D%2C%7B%22text%22%3A%22AND%22%2C%22color%22%3A%22brightgreen%22%2C%22anim%22%3A%22bounce%22%7D%2C%7B%22text%22%3A%22MARKDOWNS%22%2C%22color%22%3A%22brightgreen%22%2C%22anim%22%3A%22rainbow%22%7D%5D)
+
